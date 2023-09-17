@@ -4,7 +4,7 @@
 	margin:20px;
 }
 #container::before {
-    content: "Before Text"; /* Text to be inserted */
+    content: "Before Element"; /* Text to be inserted */
     color: #f00; /* Red color */
     font-size: 20px;
 }
